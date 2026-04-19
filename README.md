@@ -6,8 +6,7 @@
 
 **About me**<br>
 
-A Computer Science student passionate about Software Engineering and AI.
-I enjoy applying what I learn through projects—turning concepts into working systems.
+I'm a Computer Science undergraduate from India, currently pursuing my Bachelor of Engineering. I focus on building a strong foundation in areas like data structures, operating systems and cloud technologies. Alongside my coursework, I enjoy applying what I learn through projects—turning concepts into working systems and exploring how they perform in real-world scenarios.
 I’m interested in solving challenging problems and building things that help connect people.
 
 ## 🛠️ My Tools
