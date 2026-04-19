@@ -7,7 +7,7 @@
 **About me**<br>
 
 I'm a Computer Science undergraduate from India, currently pursuing my Bachelor of Engineering. I focus on building a strong foundation in areas like data structures, operating systems and cloud technologies. Alongside my coursework, I enjoy applying what I learn through projects—turning concepts into working systems and exploring how they perform in real-world scenarios.
-I’m interested in solving challenging problems and building things that help connect people.
+I’m also interested in solving challenging problems that help connect people.
 
 ## 🛠️ My Tools
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
