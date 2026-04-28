@@ -8,8 +8,11 @@ I’m also interested in solving challenging problems that help connect people.
 
 ## Projects
 
-**Currency Radar**
+- **Currency Radar**<br>
 Built a live currency converter that fetches real-time exchange rates and surfaces news specific to the selected currency pair. Features instant currency swapping and keyword news search.
+
+- **Airline Management System**<br>
+Built a airline management system in Java. That gives the airline's staff an organized way to manage their day to day operations like flight scheduling, ticket reservations and passenger information management. Used Java Swing to build the interactive UI layer and also used JDBC (Java Database Connectivity) to connect the database (SQLite) to the application.
 
 ## 🛠️ My Tools
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
