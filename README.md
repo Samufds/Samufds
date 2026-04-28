@@ -24,7 +24,7 @@ I’m also interested in solving challenging problems that help connect people.
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
-### 📫 Reach Me On
+## 📫 Reach Me On
 
 <p>
   <a target="_blank"href="https://www.linkedin.com/in/samuel-fernandes3/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
