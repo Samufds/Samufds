@@ -1,13 +1,15 @@
 
-<h1 align="center">
-  Hi there, Welcome To Samuel's profile 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38">
-</h1>
+# Samuel Fernandes
 
-**About me**<br>
+**About me**
 
 I'm a Computer Science undergraduate from India, currently pursuing my Bachelor of Engineering. I focus on building a strong foundation in areas like data structures, operating systems and cloud technologies. Alongside my coursework, I enjoy applying what I learn through projects—turning concepts into working systems and exploring how they perform in real-world scenarios.
 I’m also interested in solving challenging problems that help connect people.
+
+## Projects
+
+**Currency Radar**
+Built a live currency converter that fetches real-time exchange rates and surfaces news specific to the selected currency pair. Features instant currency swapping and keyword news search.
 
 ## 🛠️ My Tools
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
