@@ -3,22 +3,26 @@
 
 **About me**
 
-I'm a Computer Science undergraduate from India, currently pursuing my Bachelor of Engineering. I focus on building a strong foundation in areas like data structures, operating systems and cloud technologies. Alongside my coursework, I enjoy applying what I learn through projects—turning concepts into working systems and exploring how they perform in real-world scenarios.
-I’m also interested in solving challenging problems that help connect people.
+I'm a Computer Science undergraduate from India, currently pursuing my Bachelor of Engineering. I'm focused on software engineering but particularly backend systems that are functional and well structured. I learn through projects by turning concepts into working systems. My projects range from API driven web tools to database backed management systems. I focus on building a strong foundation in areas like data structures and cloud technologies something I'm actively working toward making a core part of what I do long term.
+
 
 ## Projects
 
 - **Currency Radar**<br>
-Built a live currency converter that fetches real-time exchange rates and surfaces news specific to the selected currency pair. Features instant currency swapping and keyword news search.
+Built a web based live currency converter along with currency specific news updates. That provides realtime exchange rates and currency specific news based on the user's selection. Worked through API integration challenges to fetch and display news based on the selected currency.<br>
+***Tech Stack: HTML - CSS - Javascript - REST APIs***
+
 
 - **Airline Management System**<br>
-Built an airline management system in Java. That gives the airline's staff an organized way to manage their day to day operations like flight scheduling, ticket reservations and passenger information management. Used Java Swing to build the interactive UI layer and also used JDBC (Java Database Connectivity) to connect the database (SQLite) to the application.
+Built an airline management system in Java using Java Swing to build the interactive UI layer. That supports flight scheduling, passenger booking, seat allocation, check-in, and boarding pass management. Used JDBC (Java Database Connectivity) to connect the database (SQLite) to the application while handling Java connection issues with SQLite, Swing UI freezing during execution and maintaining data consistency issues.<br>
+***Tech Stack: Java - Java Swing - SQL - SQLite - JDBC***
 
-## 🛠️ My Tools
+## 🛠️ My Tools / Skills
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
