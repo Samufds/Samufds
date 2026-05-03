@@ -9,12 +9,15 @@ I'm a Computer Science undergraduate from India, currently pursuing my Bachelor 
 ## Projects
 
 - **Currency Radar**<br>
-Built a web based live currency converter along with currency specific news updates. That provides realtime exchange rates and currency specific news based on the user's selection. Worked through API integration challenges to fetch and display news based on the selected currency.<br>
+Built a web based live currency converter along with currency specific news updates. That provides realtime exchange rates and currency specific news based on the user's selection. Handled API integration challenges to fetch and display news based on the selected currency.<br>
 ***Tech Stack: HTML - CSS - Javascript - REST APIs***
 
+- **Bank Management System**<br>
+Built a terminal based bank management system that manages creation, deletions and updates of customer details along with depositing, withdrawal and their transaction history. Used pymysql to connect the MySQL database with python. Worked through balance logic for account type rules "savings and current" and design challenges of reserved SQL keyword conflicts.<br>
+***Tech Stack: Python - pymysql - SQL***
 
 - **Airline Management System**<br>
-Built an airline management system in Java using Java Swing to build the interactive UI layer. That supports flight scheduling, passenger booking, seat allocation, check-in, and boarding pass management. Used JDBC (Java Database Connectivity) to connect the database (SQLite) to the application while handling Java connection issues with SQLite, Swing UI freezing during execution and maintaining data consistency issues.<br>
+Built an airline management system in Java using Java Swing to build the interactive UI layer. That supports flight scheduling, passenger booking, seat allocation, check-in, and boarding pass management. Used JDBC (Java Database Connectivity) to connect the database (SQLite) to the application also resolved Java connection issues with SQLite, Swing UI freezing during execution and maintaining data consistency issues.<br>
 ***Tech Stack: Java - Java Swing - SQL - SQLite - JDBC***
 
 ## 🛠️ My Tools / Skills
