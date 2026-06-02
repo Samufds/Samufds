@@ -12,6 +12,10 @@ I'm a Computer Science undergraduate from India, currently pursuing my Bachelor 
 Built a web based live currency converter along with currency specific news updates. That provides realtime exchange rates and currency specific news based on the user's selection. Handled API integration challenges to fetch and display news based on the selected currency.<br>
 ***Tech Stack: HTML - CSS - Javascript - REST APIs***
 
+- **LinkForge**<br>
+Built a full stack URL shortener and YouTube downloader with a REST API backend. Supports custom short aliases, click tracking, and video downloads in multiple formats and qualities. YouTube downloader is functional on a local machine but the production deployment will require a server side cookie authentication handling.
+Tech Stack: Python · FastAPI · PostgreSQL · SQLAlchemy · Pydantic · yt-dlp
+
 - **Bank Management System**<br>
 Built a terminal based bank management system that manages creation, deletions and updates of customer details along with depositing, withdrawal and their transaction history. Used pymysql to connect the MySQL database with python. Worked through balance logic for account type rules "savings and current" and design challenges of reserved SQL keyword conflicts.<br>
 ***Tech Stack: Python - pymysql - SQL***
